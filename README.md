@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Nico Saltos Misconduct Evidence</h1>
+    Note: Links only work on desktop version.
     <embed src="Nico Saltos Misconduct Evidence Document.pdf" type="application/pdf" width="100%" height="600px" />
     <img src="1.png" />
     <img src="2.png" />
